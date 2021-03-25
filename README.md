@@ -24,3 +24,9 @@ __You can visit [Tensorflow website](https://www.tensorflow.org/install/gpu), fo
 - To use the model on video you can run the command `python yolo_video.py --video path_to_video `
 - You can also change the code in `yolo.py`, so that it only works for Hand Recognition and Localization. 
 - If you would like to create a custom Recognition System. You can follow the [tutorial](https://github.com/pythonlessons/YOLOv3-object-detection-tutorial) here.
+
+
+## Architecture for Custom mobilenetV2
+
+
+![Custom mobilenetV2](custom-mobilenetV2-architecture.PNG)
